@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ejercicios>
+    <programa>
+        <id>1</id>
+        <descripcion>Pedir dos números y decir cual es el mayor.</descripcion>
+        <resp>0,2</resp>
+    </programa>
+    <programa>
+        <id>2</id>
+        <descripcion>Pedir una nota de 0 a 10 y mostrarla de la forma: Insuficiente, Suficiente, Bien...</descripcion>
+        <resp>3,4</resp>
+    </programa>
+    <programa>
+        <id>3</id>
+        <descripcion> Leer un número y mostrar su cuadrado, repetir el proceso hasta que se introduzca un número
+negativo.</descripcion>
+        <resp></resp>
+    </programa>
+</ejercicios>>
